@@ -4,43 +4,43 @@ A simple Todo application using Hexagonal (Ports and Adapters) Architecture.
 ## Requirements
 Todo: Text describing a task that needs to be completed.
 
-- [ ] Add a Todo
-	> As a user
-	> I want to create Todos
+- [ ] Add a Todo  
+	> As a user  
+	> I want to create Todos  
 	> So that I can keep track of tasks that I want to accomplish	
 
-- [ ] Remove a Todo
-	> As a user
-	> I want to remove a Todo
+- [ ] Remove a Todo  
+	> As a user  
+	> I want to remove a Todo  
 	> So that I can get rid of tasks that are no longer relevant
 
-- [ ] Complete a Todo
-	> As a user
-	> I want the ability to complete a Todo
+- [ ] Complete a Todo  
+	> As a user  
+	> I want the ability to complete a Todo  
 	> So that I can show that it is finished
 
-- [ ] List Todos
-	> As a user
-	> I want to see a list of my Todos
+- [ ] List Todos  
+	> As a user  
+	> I want to see a list of my Todos  
 	> So that I know what to work on
 
-- [ ] View Todo Detail
-	> As a user
-	> I want to view the details of a Todo
+- [ ] View Todo Detail  
+	> As a user  
+	> I want to view the details of a Todo  
 	> So that I can know everything about it
 
-- [ ] Authentication (Stretch Goal)
-	> As a user
-	> I want to have ownership of my own Todos
+- [ ] Authentication (Stretch Goal)  
+	> As a user  
+	> I want to have ownership of my own Todos  
 	> So that my tasks are different from everyone elses
 
-- [ ] Journal (Stretch Goal)
-	> As a user
-	> I want to see previously completed Todos
+- [ ] Journal (Stretch Goal)  
+	> As a user  
+	> I want to see previously completed Todos  
 	> So that I can see my accomplishments over time
 
-- [ ] Hightlight (Stretch Goal)
-	> As a user
+- [ ] Hightlight (Stretch Goal)  
+	> As a user  
 	> I want to be able to mark a Todo as important
 	> So that when I am looking at my accomplishments I can see which ones are most significant
 
