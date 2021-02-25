@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:viewModels="clr-namespace:ToDo.Mobile.ViewModels;assembly=ToDo.Mobile"
-             xmlns:behaviors="clr-namespace:ToDo.Mobile.Behaviors;assembly=ToDo.Mobile"
+             xmlns:viewModels="clr-namespace:ToDo.Mobile.ViewModels;assembly=Todo.Mobile"
+             xmlns:behaviors="clr-namespace:ToDo.Mobile.Behaviors;assembly=Todo.Mobile"
              x:Class="ToDo.Mobile.Views.ItemSummaryView">
     <ContentView.Content>
       <StackLayout Orientation="Horizontal" x:DataType="viewModels:ItemSummaryViewModel">

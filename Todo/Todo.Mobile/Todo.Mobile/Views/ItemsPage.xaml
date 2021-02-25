@@ -4,8 +4,8 @@
              x:Class="ToDo.Mobile.Views.ItemsPage"
              Title="{Binding Title}"
              xmlns:local="clr-namespace:ToDo.Mobile.ViewModels"
-             xmlns:shared="clr-namespace:ToDo.Shared;assembly=ToDo.Shared"
-             xmlns:views="clr-namespace:ToDo.Mobile.Views;assembly=ToDo.Mobile"
+             xmlns:shared="clr-namespace:ToDo.Shared;assembly=Todo.Shared"
+             xmlns:views="clr-namespace:ToDo.Mobile.Views;assembly=Todo.Mobile"
              x:Name="BrowseItemsPage">
 
     <ContentPage.ToolbarItems>
